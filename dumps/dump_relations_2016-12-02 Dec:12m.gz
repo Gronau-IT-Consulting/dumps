@@ -1,8 +1,8 @@
-Fri Dec  2 07:23:01 relations.bson
-Fri Dec  2 07:23:01 	going into namespace [lobbyradar.relations]
-Fri Dec  2 07:23:01 	Creating index: { key: { _id: 1 }, ns: "lobbyradar.relations", name: "_id_" }
-Fri Dec  2 07:23:02 	Creating index: { key: { tags: 1 }, ns: "lobbyradar.relations", name: "tags_1", background: true }
-Fri Dec  2 07:23:02 	Creating index: { key: { importer: 1 }, ns: "lobbyradar.relations", name: "importer_1", background: true }
-Fri Dec  2 07:23:02 	Creating index: { key: { type: 1 }, ns: "lobbyradar.relations", name: "type_1", background: true }
-Fri Dec  2 07:23:02 	Creating index: { key: { weight: 1 }, ns: "lobbyradar.relations", name: "weight_1", background: true }
-Fri Dec  2 07:23:02 	Creating index: { key: { entities: 1 }, ns: "lobbyradar.relations", name: "entities_1", background: true }
+Fri Dec  2 10:54:20 relations.bson
+Fri Dec  2 10:54:20 	going into namespace [lobbyradar.relations]
+Fri Dec  2 10:54:21 	Creating index: { key: { _id: 1 }, ns: "lobbyradar.relations", name: "_id_" }
+Fri Dec  2 10:54:22 	Creating index: { key: { tags: 1 }, ns: "lobbyradar.relations", name: "tags_1", background: true }
+Fri Dec  2 10:54:22 	Creating index: { key: { importer: 1 }, ns: "lobbyradar.relations", name: "importer_1", background: true }
+Fri Dec  2 10:54:22 	Creating index: { key: { type: 1 }, ns: "lobbyradar.relations", name: "type_1", background: true }
+Fri Dec  2 10:54:22 	Creating index: { key: { weight: 1 }, ns: "lobbyradar.relations", name: "weight_1", background: true }
+Fri Dec  2 10:54:22 	Creating index: { key: { entities: 1 }, ns: "lobbyradar.relations", name: "entities_1", background: true }
