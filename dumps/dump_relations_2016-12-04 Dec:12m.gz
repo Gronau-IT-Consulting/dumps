@@ -1,0 +1,8 @@
+Sun Dec  4 04:29:05 relations.bson
+Sun Dec  4 04:29:05 	going into namespace [lobbyradar.relations]
+Sun Dec  4 04:29:06 	Creating index: { key: { _id: 1 }, ns: "lobbyradar.relations", name: "_id_" }
+Sun Dec  4 04:29:06 	Creating index: { key: { tags: 1 }, ns: "lobbyradar.relations", name: "tags_1", background: true }
+Sun Dec  4 04:29:06 	Creating index: { key: { importer: 1 }, ns: "lobbyradar.relations", name: "importer_1", background: true }
+Sun Dec  4 04:29:07 	Creating index: { key: { type: 1 }, ns: "lobbyradar.relations", name: "type_1", background: true }
+Sun Dec  4 04:29:07 	Creating index: { key: { weight: 1 }, ns: "lobbyradar.relations", name: "weight_1", background: true }
+Sun Dec  4 04:29:07 	Creating index: { key: { entities: 1 }, ns: "lobbyradar.relations", name: "entities_1", background: true }

@@ -1,0 +1,11 @@
+Sun Dec  4 04:29:02 entities.bson
+Sun Dec  4 04:29:02 	going into namespace [lobbyradar.entities]
+Sun Dec  4 04:29:03 	Creating index: { key: { _id: 1 }, ns: "lobbyradar.entities", name: "_id_" }
+Sun Dec  4 04:29:04 	Creating index: { key: { aliases: 1 }, ns: "lobbyradar.entities", name: "aliases_1", background: true }
+Sun Dec  4 04:29:04 	Creating index: { key: { relations: 1 }, ns: "lobbyradar.entities", name: "relations_1", background: true }
+Sun Dec  4 04:29:04 	Creating index: { key: { slug: 1 }, ns: "lobbyradar.entities", name: "slug_1", background: true }
+Sun Dec  4 04:29:04 	Creating index: { key: { search: 1 }, ns: "lobbyradar.entities", name: "search_1", background: true }
+Sun Dec  4 04:29:04 	Creating index: { key: { type: 1 }, ns: "lobbyradar.entities", name: "type_1", background: true }
+Sun Dec  4 04:29:05 	Creating index: { key: { tags: 1 }, ns: "lobbyradar.entities", name: "tags_1", background: true }
+Sun Dec  4 04:29:05 	Creating index: { key: { name: 1 }, ns: "lobbyradar.entities", name: "name_1", background: true }
+Sun Dec  4 04:29:05 	Creating index: { key: { importer: 1 }, ns: "lobbyradar.entities", name: "importer_1", background: true }
